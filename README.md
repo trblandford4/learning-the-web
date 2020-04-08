@@ -43,7 +43,7 @@ Fullstack concepts I'm studying in no particular order
   - Distributed Systems
 
 ## Frontend
-- Javascript
+- [Javascript](./frontend/javascript.md)
   - DOM Manipulation
   - Client Side Caching
   - Functional Programming
